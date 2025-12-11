@@ -116,7 +116,7 @@ Select object → Choose material → Generate!
 
 ## 🎯 What Makes This Special?
 
-**vs. Texture Libraries (Polyhaven, Poliigon):**
+**vs. Texture Libraries alternatives:**
 - ✅ Unlimited custom textures from text
 - ✅ No browsing/searching needed
 - ✅ Completely free
