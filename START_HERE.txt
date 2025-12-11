@@ -1,0 +1,59 @@
+================================================================================
+    AI TEXTURE GENERATOR FOR BLENDER - START HERE!
+================================================================================
+
+Welcome! This tool generates beautiful 3D textures from text using AI.
+
+STEP 1: CHOOSE YOUR MODE
+-------------------------
+
+You have TWO options:
+
+1. LOCAL_MODE/  <-- Use if you have NVIDIA GPU (GTX 1060 6GB+)
+   - Runs on your computer
+   - Works offline after setup
+   - Fast (3-5 minutes per texture)
+
+2. CLOUD_MODE/  <-- Use if you DON'T have a powerful GPU
+   - Uses free cloud GPUs (Kaggle)
+   - Works on any computer
+   - Requires internet during use
+
+STEP 2: OPEN THE FOLDER
+-------------------------
+
+Open either LOCAL_MODE or CLOUD_MODE folder
+
+STEP 3: READ THE README
+-------------------------
+
+Each folder has a README.md file with specific instructions
+
+STEP 4: FOLLOW THE STEPS
+-------------------------
+
+Just follow the instructions in that README!
+
+================================================================================
+
+QUICK DECISION HELPER:
+
+Q: Do you have an NVIDIA GPU?
+   YES → Use LOCAL_MODE (faster, offline)
+   NO  → Use CLOUD_MODE (easier setup)
+
+Q: Want easiest setup?
+   → Use CLOUD_MODE
+
+Q: Want to work without internet?
+   → Use LOCAL_MODE
+
+Q: Not sure?
+   → Try CLOUD_MODE first (easier)
+
+================================================================================
+
+Need help? Check README.md in the main folder for detailed comparison!
+
+Happy texture generating! 🎨
+================================================================================
