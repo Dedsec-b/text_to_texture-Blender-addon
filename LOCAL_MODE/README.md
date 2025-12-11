@@ -39,10 +39,13 @@ This folder contains everything you need to run the AI Texture Generator **compl
 
 #### 4.1 Switch to Shader Editor
 
-1. **Click the workspace icon** (top-left corner of Blender)
-2. Select **"Shader Editor"** from the dropdown
+1. **Click the workspace icon** (top-left corner of Blender):
 
-![Workspace Selection](../docs/images/shader_editor.png)
+![Workspace Icon](../docs/images/workspace_selector.png)
+
+2. Select **"Shader Editor"** from the dropdown:
+
+![Shader Editor Dropdown](../docs/images/shader_editor.png)
 
 #### 4.2 Access AI Textures Panel
 
@@ -68,8 +71,6 @@ This folder contains everything you need to run the AI Texture Generator **compl
 
 1. **Click the workspace icon** again (top-left)
 2. Select **"3D Viewport"** (or press `Shift+F5`)
-
-![Switch to 3D Viewport](../docs/images/workspace_selector.png)
 
 3. **If texture doesn't appear**, change viewport shading:
    - Look for shading icons (top-right of viewport)
