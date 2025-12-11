@@ -358,7 +358,7 @@ class AITEX_OT_GenerateTextures(Operator):
         
         # Check if Backend URL is set
         if not props.backend_url:
-            self.report({'ERROR'}, "Please set your Backend URL (Railway or Kaggle)!")
+            self.report({'ERROR'}, "Please set your Kaggle Backend URL!")
             return {'CANCELLED'}
 
         # NEW: Check if Target Object is selected
@@ -447,7 +447,7 @@ class AITEX_OT_GenerateTextures(Operator):
         return presets.get(material_type, "")
     
     def generate_via_backend(self, backend_url, prompt, resolution, make_tileable):
-        """Send request to backend (Railway/Kaggle) and get textures back"""
+        """Send request to Kaggle backend and get textures back"""
         
         self._progress = 0.2
         self._status = "Sending request to backend..."
@@ -814,7 +814,7 @@ class AITEX_PT_MainPanel(Panel):
         box.label(text="Backend URL:", icon='URL')
         box.prop(props, "backend_url", text="")
         if not props.backend_url:
-            box.label(text="⚠️ Set Railway or Kaggle URL", icon='ERROR')
+            box.label(text="⚠️ Set Kaggle ngrok URL", icon='ERROR')
         else:
             box.label(text="✓ Connected", icon='CHECKMARK')
         

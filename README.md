@@ -25,7 +25,7 @@ This project offers **two ways** to generate AI textures. Choose based on your n
 **Requirements:**
 - NVIDIA GPU with 6GB+ VRAM
 - 10GB disk space
-- Windows 10/11 or Linux
+- Windows 10/11
 
 [→ Go to LOCAL_MODE folder](./LOCAL_MODE/)
 
@@ -138,7 +138,6 @@ Select object → Choose material → Generate!
 - [`LOCAL_MODE/README.md`](./LOCAL_MODE/README.md) - Local setup guide
 - [`CLOUD_MODE/README.md`](./CLOUD_MODE/README.md) - Cloud setup guide
 - [`LOCAL_MODE/LOCAL_BACKEND_GUIDE.md`](./LOCAL_MODE/LOCAL_BACKEND_GUIDE.md) - Detailed local troubleshooting
-- [`CLOUD_MODE/DEPLOYMENT.md`](./CLOUD_MODE/DEPLOYMENT.md) - Railway deployment guide
 
 ---
 
@@ -226,7 +225,6 @@ MIT License - free to use, modify, and distribute!
 - **Stable Diffusion** by Stability AI
 - **Realistic Vision V5.1** model by SG161222
 - **Blender Foundation** for amazing 3D software
-- **Railway** for easy cloud deployment
 - **Kaggle** for free GPU access
 
 ---
