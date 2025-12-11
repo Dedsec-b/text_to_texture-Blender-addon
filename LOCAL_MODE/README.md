@@ -42,14 +42,14 @@ This folder contains everything you need to run the AI Texture Generator **compl
 1. **Click the workspace icon** (top-left corner of Blender)
 2. Select **"Shader Editor"** from the dropdown
 
-![Workspace Selection](file:///C:/Users/Administrator/.gemini/antigravity/brain/ab4fc0e1-4082-419e-9f6c-198e7b902709/uploaded_image_1_1765432287292.png)
+![Workspace Selection](../docs/images/shader_editor.png)
 
 #### 4.2 Access AI Textures Panel
 
 1. **Look at the right sidebar** in Shader Editor
 2. **Click the "AI Textures" tab** (you may need to press `N` if sidebar is hidden)
 
-![AI Textures Panel](file:///C:/Users/Administrator/.gemini/antigravity/brain/ab4fc0e1-4082-419e-9f6c-198e7b902709/uploaded_image_2_1765432287292.png)
+![AI Textures Panel](../docs/images/ai_textures_panel.png)
 
 #### 4.3 Select Your Object
 
@@ -69,7 +69,7 @@ This folder contains everything you need to run the AI Texture Generator **compl
 1. **Click the workspace icon** again (top-left)
 2. Select **"3D Viewport"** (or press `Shift+F5`)
 
-![Switch to 3D Viewport](file:///C:/Users/Administrator/.gemini/antigravity/brain/ab4fc0e1-4082-419e-9f6c-198e7b902709/uploaded_image_0_1765432287292.png)
+![Switch to 3D Viewport](../docs/images/workspace_selector.png)
 
 3. **If texture doesn't appear**, change viewport shading:
    - Look for shading icons (top-right of viewport)
@@ -102,13 +102,13 @@ This folder contains everything you need to run the AI Texture Generator **compl
 ## System Requirements
 
 **Minimum (CPU Mode):**
-- Windows 10/11
+- Windows 10/11 or Linux
 - 16GB RAM
 - 10GB free space
 - ⚠️ VERY SLOW (30+ min per texture)
 
 **Recommended (GPU Mode):**
-- Windows 10/11
+- Windows 10/11 or Linux
 - NVIDIA GPU (GTX 1060 6GB or better)
 - 16GB RAM
 - 10GB free space
