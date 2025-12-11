@@ -25,7 +25,7 @@ This project offers **two ways** to generate AI textures. Choose based on your n
 **Requirements:**
 - NVIDIA GPU with 6GB+ VRAM
 - 10GB disk space
-- Windows 10/11
+- Windows 10/11 or Linux
 
 [→ Go to LOCAL_MODE folder](./LOCAL_MODE/)
 
